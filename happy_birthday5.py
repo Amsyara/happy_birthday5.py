@@ -252,7 +252,7 @@ pen.forward(210)
 pen.left(90)
 pen.forward(170)
 pen.pendown()
-pen.write("Happy Birthday", font=("Curlz MT", 50 , 'bold'))
+pen.write("Happy Birthday Syahmina Lutfia Zahra", font=("Curlz MT", 50 , 'bold'))
 
 screen.update()
 trtl.done()
